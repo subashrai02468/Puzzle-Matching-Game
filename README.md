@@ -1,4 +1,3 @@
-```markdown
 # Puzzle Matching Game
 
 ## Introduction
